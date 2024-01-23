@@ -22,7 +22,7 @@ const route = useRoute();
 watch(
   () => route.name,
   (routeName) => {
-    document.title = `${String(routeName)} - An` || "An";
+    document.title = `${String(routeName)} | An` || "An";
   },
   { immediate: true }
 );
