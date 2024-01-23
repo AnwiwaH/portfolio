@@ -21,7 +21,7 @@
     </div>
 
     <div class="flex-1">
-      <img class="w-92 lg:w-116 m-auto" src="../assets/img/HomeImage.svg" alt="profile" />
+      <img class="w-92 lg:w-116 m-auto" src="../assets/img/HomeImage2.svg" alt="profile" />
     </div>
   </div>
 </template>
