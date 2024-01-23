@@ -1,6 +1,6 @@
 <template>
   <div class="w-min text-center">
-    <SectionTitle>Contact Me</SectionTitle>
+    <SectionTitle class="mb-12">Contact Me</SectionTitle>
 
     <div class="mt-24 flex flex-col justify-center gap-6 transition-all">
       <ContactItem
