@@ -1,64 +1,72 @@
 [
   {
     "id": 0,
-    "title": "Quizzler",
-    "desc": "A quiz app made with Nuxt 3 and its ecosystem",
-    "image": "quizzler",
-    "github": "https://github.com/jo0707/quizzler",
-    "demo": "https://quizzler.jooo.my.id/"
-  },
-  {
-    "id": 1,
-    "title": "QRGen",
-    "desc": "minimalist QR Generator & Scanner in made with Nuxt 3",
-    "image": "qrgen",
-    "github": "https://github.com/jo0707/QRGen",
-    "demo": "https://qr.jooo.my.id/"
-  },
-  {
-    "id": 2,
-    "title": "Tic Tac Toe",
-    "desc": "Simple tic tac toe game made with Vite, Vue 3, WindiCSS and Motion One",
-    "image": "tictactoe",
-    "github": "https://github.com/jo0707/Tic-Tac-Toe",
-    "demo": "https://tictactoe.jooo.my.id/"
-  },
-  {
-    "id": 3,
-    "title": "Bookshelv",
-    "desc": "App to organize books that have been read. built with only HTML, CSS and javascript",
-    "image": "bookshelv",
-    "github": "https://github.com/jo0707/Bookshelv",
-    "demo": "https://jo0707.github.io/Bookshelv/"
-  },
-  {
-    "id": 4,
-    "title": "ViNote",
-    "desc": "Simple and offline note app based on Flutter.",
-    "image": "vinote",
-    "github": "https://github.com/jo0707/viNote",
-    "demo": "https://jo0707.github.io/viNote/"
-  },
-  {
-    "id": 5,
-    "title": "Text Explode Generator",
-    "desc": "tools to make text \"explode\" with CSS",
-    "image": "explode",
-    "github": "https://github.com/jo0707/text-explode",
-    "demo": "https://explode.jooo.my.id/"
-  },
-  {
-    "id": 6,
-    "title": "GreenCafe",
-    "desc": "Cafe cashier application. Manage transactions, reports, menus and users. Made With JavaFX and Kotlin",
-    "image": "greencafe",
-    "github": "https://github.com/jo0707/greencafe"
-  },
-  {
-    "id": 7,
-    "title": "GitUsers",
-    "desc": "Android app to show Github users and details",
-    "image": "gitusers",
-    "github": "https://github.com/jo0707/GitUsers"
+    "title": "lorem",
+    "desc": "lorem",
+    "image": "#",
+    "github": "#",
+    "demo": "#"
   }
+  // {
+  //   "id": 0,
+  //   "title": "Quizzler",
+  //   "desc": "A quiz app made with Nuxt 3 and its ecosystem",
+  //   "image": "quizzler",
+  //   "github": "https://github.com/jo0707/quizzler",
+  //   "demo": "https://quizzler.jooo.my.id/"
+  // },
+  // {
+  //   "id": 1,
+  //   "title": "QRGen",
+  //   "desc": "minimalist QR Generator & Scanner in made with Nuxt 3",
+  //   "image": "qrgen",
+  //   "github": "https://github.com/jo0707/QRGen",
+  //   "demo": "https://qr.jooo.my.id/"
+  // },
+  // {
+  //   "id": 2,
+  //   "title": "Tic Tac Toe",
+  //   "desc": "Simple tic tac toe game made with Vite, Vue 3, WindiCSS and Motion One",
+  //   "image": "tictactoe",
+  //   "github": "https://github.com/jo0707/Tic-Tac-Toe",
+  //   "demo": "https://tictactoe.jooo.my.id/"
+  // },
+  // {
+  //   "id": 3,
+  //   "title": "Bookshelv",
+  //   "desc": "App to organize books that have been read. built with only HTML, CSS and javascript",
+  //   "image": "bookshelv",
+  //   "github": "https://github.com/jo0707/Bookshelv",
+  //   "demo": "https://jo0707.github.io/Bookshelv/"
+  // },
+  // {
+  //   "id": 4,
+  //   "title": "ViNote",
+  //   "desc": "Simple and offline note app based on Flutter.",
+  //   "image": "vinote",
+  //   "github": "https://github.com/jo0707/viNote",
+  //   "demo": "https://jo0707.github.io/viNote/"
+  // },
+  // {
+  //   "id": 5,
+  //   "title": "Text Explode Generator",
+  //   "desc": "tools to make text \"explode\" with CSS",
+  //   "image": "explode",
+  //   "github": "https://github.com/jo0707/text-explode",
+  //   "demo": "https://explode.jooo.my.id/"
+  // },
+  // {
+  //   "id": 6,
+  //   "title": "GreenCafe",
+  //   "desc": "Cafe cashier application. Manage transactions, reports, menus and users. Made With JavaFX and Kotlin",
+  //   "image": "greencafe",
+  //   "github": "https://github.com/jo0707/greencafe"
+  // },
+  // {
+  //   "id": 7,
+  //   "title": "GitUsers",
+  //   "desc": "Android app to show Github users and details",
+  //   "image": "gitusers",
+  //   "github": "https://github.com/jo0707/GitUsers"
+  // }
 ]
