@@ -1,4 +1,4 @@
-<h1 align="center">Jo's Portfolio</h1>
+<h1 align="center">An's Portfolio</h1>
 
 <p align="center">
   <img src="banner.png"/>
@@ -15,10 +15,10 @@
   * [Particles.js](https://vincentgarreau.com/particles.js/)
 
 ### Website
-  * [JoDev.my.id](https://JoDev.ny.id/)
+  * [anwiwah.my.id](https://anwiwah.my.id/)
 
 
 ### Credit
-* ### Joshua Sinaga
+* ### Andi Wira Wahyudi
 
 Feel free to contribute to this repository!
