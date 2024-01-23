@@ -5,7 +5,7 @@
         <h5 class="my-2 text-lg lg:text-xl">Hello!</h5>
       </SlideLeftTransition>
       <SlideLeftTransition :dur="1.1">
-        <h1 class="my-2 text-4xl lg:text-5xl">I'm Joshua Sinaga</h1>
+        <h1 class="my-2 text-4xl lg:text-5xl">I'm Andi wira waHyudi</h1>
       </SlideLeftTransition>
       <SlideLeftTransition :dur="1.5">
         <h2 class="text-md my-2 sm:text-lg lg:text-xl">
