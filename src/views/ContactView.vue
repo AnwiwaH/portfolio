@@ -6,30 +6,30 @@
       <ContactItem
         classs="text-red-400"
         :path="mdiGmail"
-        text="josua123690707@gmail.com"
-        href="mailto:josua123690707@gmail.com"
+        text="anwiwah@gmail.com"
+        href="mailto:anwiwah@gmail.com"
       />
       <ContactItem
         classs="text-dark-700 dark:text-slate-200"
         :path="mdiGithub"
-        text="jo0707"
-        href="https://github.com/jo0707"
+        text="anwiwah"
+        href="https://github.com/anwiwah"
       />
       <ContactItem
         classs="text-violet-400"
         :path="mdiInstagram"
-        text="@jo907__"
-        href="https://instagram.com/jo907__"
+        text="@anwiwah"
+        href="https://instagram.com/anwiwah__"
       />
       <ContactItem
         classs="text-blue-400"
         :path="mdiSend"
-        text="@jo90707"
-        href="https://t.me/jo90707"
+        text="@anwiwah"
+        href="https://t.me/anwiwah"
       />
     </div>
 
-    <h6 class="mt-24 text-sm opacity-50">2023 © Joshua Sinaga</h6>
+    <h6 class="mt-24 text-sm opacity-50">2023 © Andi wira waHyudi</h6>
   </div>
 </template>
 
