@@ -15,10 +15,7 @@
 
       <SlideLeftTransition :dur="1.9">
         <RouterLink to="/about"
-          class="underline-slate-900 dark:underline-slate-400 my-3 place-self-start py-3 underline sm:mt-10">About Me >>
-        </RouterLink>
-        <RouterLink to="/Game"
-          class="underline-slate-900 dark:underline-slate-400 my-3 place-self-start py-3 underline sm:mt-10">Chess >
+          class="underline-slate-900 dark:underline-slate-400 my-3 place-self-start py-3 underline sm:mt-10">About Me >
         </RouterLink>
       </SlideLeftTransition>
     </div>
